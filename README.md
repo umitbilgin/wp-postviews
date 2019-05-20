@@ -2,14 +2,14 @@
 
 <b>WordPress Eklentisiz Okunma Sayısı Gösterme</b>
 
-Adım 1 : Proje içindeki functions.php dosyasında bulunan kodları temanızın functions.php dosyasına ekleyin.
-Adım 2 : Proje içindeki single.php dosyasında bulunan kodları temanızın single.php dosyasında gözükmesinizi istediğiniz yere ekleyin.
-Adım 3 : Bitti.
+Adım 1 : Proje içindeki functions.php dosyasında bulunan kodları temanızın functions.php dosyasına ekleyin.</br>
+Adım 2 : Proje içindeki single.php dosyasında bulunan kodları temanızın single.php dosyasında gözükmesinizi istediğiniz yere ekleyin.</br>
+Adım 3 : Bitti.</br>
 
 <h3>EN</h3>
 
 <b>Post Views for WordPress Without Plugins</b>
 
-Step 1 : Add these lines below your "functions.php" file.
-Step 2 : Add these lines to your single.php file where you want to display view count.
+Step 1 : Add these lines below your "functions.php" file.</br>
+Step 2 : Add these lines to your single.php file where you want to display view count.</br>
 Step 3 : Done.
