@@ -2,7 +2,7 @@
 
 // Bu kodları temanızın functions.php dosyasına ekleyin.
 // Add these lines below your "functions.php" file.
-
+ 
 function PostViews($type,$postID)
 {
     if($type == 'get') {
