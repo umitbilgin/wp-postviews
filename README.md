@@ -6,6 +6,8 @@ Adım 1 : Proje içindeki functions.php dosyasında bulunan kodları temanızın
 Adım 2 : Proje içindeki single.php dosyasında bulunan kodları temanızın single.php dosyasında gözükmesinizi istediğiniz yere ekleyin.</br>
 Adım 3 : Bitti.</br>
 
+Detaylı anlatım : <a href="https://umitbilgin.com.tr/wordpress-eklentisiz-okunma-sayisi-gosterme/">WordPress Eklentisiz Okunma Sayısı Gösterme</a>
+
 <h3>EN</h3>
 
 <b>Post Views for WordPress Without Plugins</b>
